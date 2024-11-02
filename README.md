@@ -32,7 +32,7 @@ O padrão CQRS geralmente está sempre ligado ao padrão Mediator:
 </br></br>![image](https://github.com/user-attachments/assets/d5eabbc0-4625-4d1f-9831-f53443370174)
 
 
-
-
 ## Referência
 https://www.youtube.com/watch?v=sUjNZAYTZwI
+
+https://www.youtube.com/watch?v=BewUyKLZjtc
